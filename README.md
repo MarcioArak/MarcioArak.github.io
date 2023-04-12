@@ -7,6 +7,8 @@
 * Calculated the amount of active to sedentary users
 * Suggested actions based on the discoveries made
 
+<img src="./images/average_daily_steps_sleep.png.png" alt="pic">
+
 ![](https://github.com/MarcioArak/BellaBeat-Case-Study/blob/main/Images/average_daily_steps_sleep.png)
 
 ## [Metro Bike Share App](https://github.com/MarcioArak/Metro-Bike-Share-Data)
