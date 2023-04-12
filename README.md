@@ -7,9 +7,8 @@
 * Calculated the amount of active to sedentary users
 * Suggested actions based on the discoveries made
 
-<img src="./images/average_daily_steps_sleep.png.png" alt="pic">
+<img src="./images/average_daily_steps_sleep.png">
 
-![](https://github.com/MarcioArak/BellaBeat-Case-Study/blob/main/Images/average_daily_steps_sleep.png)
 
 ## [Metro Bike Share App](https://github.com/MarcioArak/Metro-Bike-Share-Data)
 * Created an application that displays a map of LA metro bike stations as markers
@@ -17,7 +16,8 @@
 * The application shows which days are the busiest as well as which hours are the busiest
 * The stations can be filtered by day of the week to show only information about the selected day
 
-![](https://github.com/MarcioArak/Metro-Bike-Share-Data/blob/main/app_image.png)
+<img src="./images/app_image.png">
+
 
 ## [Planet 404 3D Game](https://github.com/MarcioArak/3D-Game-Planet-404)
 Created a 3D game using Unity engine. My tasks was to write all the game mechanics such as:
@@ -26,4 +26,5 @@ Created a 3D game using Unity engine. My tasks was to write all the game mechani
 * Player and enemy scripts
 * Interactable objects
 
-![](https://github.com/MarcioArak/3D-Game-Planet-404/blob/main/Game/Assets/Images/gameplay-gif.gif)
+<img src="./images/gameplay-gif.gif">
+
