@@ -1,9 +1,10 @@
 # Site settings
-title: Title
-author:
-  name: Marc
-  email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
+title: Portfolio
+author: gdfgdfgdgdgdfgdfgd
+  name: Marcio
+  email: marcio.arakaki22@gmail.com
+description: "Portfolio"
+
 
 # Build settings
 remote_theme: pages-themes/tactile@v0.2.0
