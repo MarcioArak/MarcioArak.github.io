@@ -7,3 +7,10 @@ description: "Porfolio"
 
 # Build settings
 remote_theme: pages-themes/slate@v0.2.0
+
+a[href='red'] {
+    color: red;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+}
