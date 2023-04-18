@@ -2,6 +2,11 @@
 **email: marcio.arakaki22@gmail.com**  
 **LinkedIn: https://www.linkedin.com/in/marcioarakaki/**
 
+
+
+
+<a href="red">Look, ma! Red!</a>
+
 ## Bellabeat Case Study
 [[Link to project]](https://github.com/MarcioArak/BellaBeat-Case-Study)
 * Identified trends in smart-device user data to apply to Bellabeat's marketing strategy
