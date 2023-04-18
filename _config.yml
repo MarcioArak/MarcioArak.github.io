@@ -1,10 +1,19 @@
 # Site settings
-title: Marcio Arakaki
-author: hi hi hi hi
-  name: Marcio
-  email: marcio.arakaki22@gmail.com
-description: "Portfolio"
-
+title: Title
+author:
+  name: Marc
+  email: your-email@domain.com
+description: "Great site about Jekyll on GH-Pages."
 
 # Build settings
 remote_theme: pages-themes/tactile@v0.2.0
+# Site settings
+#title: Marcio Arakaki
+#author: hi hi hi hi
+#  name: Marcio
+#  email: marcio.arakaki22@gmail.com
+#description: "Portfolio"
+
+
+# Build settings
+#remote_theme: pages-themes/tactile@v0.2.0
