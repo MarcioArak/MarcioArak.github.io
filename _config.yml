@@ -1,19 +1,9 @@
 # Site settings
 title: Marcio Arakaki
-author: hi hi hi hi
+author: hi hi 
   name: Sashimi
   email: marcio.arakaki22@gmail.com
 description: "Porfolio"
 
 # Build settings
 remote_theme: pages-themes/tactile@v0.2.0
-# Site settings
-#title: Marcio Arakaki
-#author: hi hi hi hi
-#  name: Marcio
-#  email: marcio.arakaki22@gmail.com
-#description: "Portfolio"
-
-
-# Build settings
-#remote_theme: pages-themes/tactile@v0.2.0
