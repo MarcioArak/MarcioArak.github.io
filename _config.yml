@@ -1,9 +1,9 @@
 # Site settings
-title: Marcio Arakaki
+title: Portfolio
 author:
   name: Ma22
   email: marcio.arakaki22@gmail.com
-description: "Portfolio"
+description: "Marcio Arakaki"
 
 # Build settings
 remote_theme: pages-themes/slate@v0.2.0
