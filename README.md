@@ -6,7 +6,7 @@
 [[Link to project]](https://github.com/MarcioArak/BellaBeat-Case-Study)
 * Identified trends in smart-device user data to apply to Bellabeat's marketing strategy
 * Used R and Google Sheets to clean and visualize the datasets from Kaggle
-* Calculated average steps users and walk and average sleep that users get on a daily basis
+* Calculated average steps users take and average sleep that users get on a daily basis
 * Calculated the amount of active to sedentary users
 * Suggested actions based on the discoveries made
 
