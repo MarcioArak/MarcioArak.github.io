@@ -1,4 +1,3 @@
-**phone: (310) 594-2227**  
 **email: marcio.arakaki22@gmail.com**  
 **LinkedIn: https://www.linkedin.com/in/marcioarakaki/**
 
