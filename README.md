@@ -1,6 +1,15 @@
 **email: marcio.arakaki22@gmail.com**  
 **LinkedIn: https://www.linkedin.com/in/marcioarakaki/**
 
+## Image Classification
+[[Link to project]](https://github.com/MarcioArak/Image-Classification)
+* Built an image classification model and trained it to identify different kinds of sports balls
+* Model has about a 92% accuracy in classifying images of up to 5 categories
+* Used data augmentation to acquire more training images
+* Configure data for better processing and training
+* Used K-Fold cross validation to evaluate the model
+
+
 ## Bellabeat Case Study
 [[Link to project]](https://github.com/MarcioArak/BellaBeat-Case-Study)
 * Identified trends in smart-device user data to apply to Bellabeat's marketing strategy
