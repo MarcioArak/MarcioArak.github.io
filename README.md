@@ -4,7 +4,7 @@
 ## Image Classification
 [[Link to project]](https://github.com/MarcioArak/Image-Classification)
 * Built an image classification model and trained it to identify different kinds of sports balls
-* Model has about a 92% accuracy in classifying images of up to 5 categories
+* Model has about a 80-90% accuracy in classifying images of up to 5 categories
 * Used data augmentation to acquire more training images
 * Configure data for better processing and training
 * Used K-Fold cross validation to evaluate the model
