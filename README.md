@@ -9,6 +9,7 @@
 * Configure data for better processing and training
 * Used K-Fold cross validation to evaluate the model
 
+<img src="./images/confusion_matrix.jpg">
 
 ## Bellabeat Case Study
 [[Link to project]](https://github.com/MarcioArak/BellaBeat-Case-Study)
