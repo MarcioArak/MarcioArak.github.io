@@ -4,8 +4,9 @@
 ## Image Classification
 [[Link to project]](https://github.com/MarcioArak/Image-Classification)
 * Built an image classification model and trained it to identify different kinds of sports balls
+* The application takes images of sport balls that are classified by folder and trains the model to recognize and label images based on the trained data.
 * Model has about a 80-90% accuracy in classifying images of up to 5 categories
-* Used data augmentation to acquire more training images
+* Used data augmentation to acquire more training images (rotating, flipping and zooming in and out of images)
 * Configure data for better processing and training
 * Used K-Fold cross validation to evaluate the model
 
@@ -14,6 +15,8 @@
 ## Bellabeat Case Study
 [[Link to project]](https://github.com/MarcioArak/BellaBeat-Case-Study)
 * Identified trends in smart-device user data to apply to Bellabeat's marketing strategy
+* Datasets are made publicly available by Morbius and collects data from 30 Fitbit users.
+* Analyzed data from participants such as number steps taken during each day, number of calories burned, and amount of sleep user’s get.
 * Used R and Google Sheets to clean and visualize the datasets from Kaggle
 * Calculated average steps users take and average sleep that users get on a daily basis
 * Calculated the amount of active to sedentary users
@@ -25,7 +28,8 @@
 [[Link to project]](https://github.com/MarcioArak/Metro-Bike-Share-Data)
 * Created an application that displays a map of LA metro bike stations as markers
 * Uses data gathered from [Metro Bike Share website](https://bikeshare.metro.net/about/data/)
-* The application shows which days are the busiest as well as which hours are the busiest
+* The application displays information on each bike station as a pop-up such as active or inactive and number of trips per hour or per day.
+* The pop-up also shows which days are the busiest as well as which hours are the busiest
 * The stations can be filtered by day of the week to show only information about the selected day
 
 <img src="./images/app_image.png">
