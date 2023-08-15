@@ -37,8 +37,8 @@
 ## Planet 404 3D Game
 [[Link to project]](https://github.com/MarcioArak/3D-Game-Planet-404)  
 
-Created a 3D game using Unity engine. Game is a third-person adventure with elements such as third-person shooting and turned-based combat.
-The player must collect items found on the planet in order to survive and fight off aliens. It is open world survival where you can explore various places.
+Created a 3D game using Unity engine. Game is a third-person adventure with elements such as third-person shooting and turned-based combat.  
+The player must collect items found on the planet in order to survive and fight off aliens. It is open world survival where you can explore various places.  
 My tasks was to write all the game mechanics such as:
 * UI and Game menu
 * Combat system: turned-based and 3rd person shooter
