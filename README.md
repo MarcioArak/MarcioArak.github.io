@@ -9,6 +9,8 @@
 * Responsive layout: PC, mobile and tablet
 * Pages include: Home, profile, login and register page
 
+  <img src="./images/social-media-page.png">
+
 ## Metro Bike Share App
 [[Link to project]](https://github.com/MarcioArak/Metro-Bike-Share-Data)
 * Created an application that displays a map of LA metro bike stations as markers
