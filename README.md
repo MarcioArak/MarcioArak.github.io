@@ -1,6 +1,24 @@
 **email: marcio.arakaki22@gmail.com**  
 **LinkedIn: https://www.linkedin.com/in/marcioarakaki/**
 
+## React Social Media Webstie
+[[Link to project]](https://marcioarak.github.io/me-so-social)
+* Created a social media website using React
+* Only front-end application with a some functionalities
+* Light and dark theme
+* Responsive layout: PC, mobile and tablet
+* Pages include: Home, profile, login and register page
+
+## Metro Bike Share App
+[[Link to project]](https://github.com/MarcioArak/Metro-Bike-Share-Data)
+* Created an application that displays a map of LA metro bike stations as markers
+* Uses data gathered from [Metro Bike Share website](https://bikeshare.metro.net/about/data/)
+* The application displays information on each bike station as a pop-up such as active or inactive and number of trips per hour or per day.
+* The pop-up also shows which days are the busiest as well as which hours are the busiest
+* The stations can be filtered by day of the week to show only information about the selected day
+
+<img src="./images/app_image.png">
+
 ## Image Classification
 [[Link to project]](https://github.com/MarcioArak/Image-Classification)
 * Built an image classification model and trained it to identify different kinds of sports balls
@@ -24,15 +42,7 @@
 
 <img src="./images/average_daily_steps_sleep.png">
 
-## Metro Bike Share App
-[[Link to project]](https://github.com/MarcioArak/Metro-Bike-Share-Data)
-* Created an application that displays a map of LA metro bike stations as markers
-* Uses data gathered from [Metro Bike Share website](https://bikeshare.metro.net/about/data/)
-* The application displays information on each bike station as a pop-up such as active or inactive and number of trips per hour or per day.
-* The pop-up also shows which days are the busiest as well as which hours are the busiest
-* The stations can be filtered by day of the week to show only information about the selected day
 
-<img src="./images/app_image.png">
 
 ## Planet 404 3D Game
 [[Link to project]](https://github.com/MarcioArak/3D-Game-Planet-404)  
