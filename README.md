@@ -2,7 +2,7 @@
 **LinkedIn: https://www.linkedin.com/in/marcioarakaki/**
 
 ## React Social Media Webstie
-[[Link to project]](https://marcioarak.github.io/me-so-social)
+[[Link to project]](https://github.com/MarcioArak/me-so-social)
 * Created a social media website using React
 * Only front-end application with a some functionalities
 * Light and dark theme
