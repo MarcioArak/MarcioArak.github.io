@@ -3,17 +3,17 @@
 
 ## React Social Media Webstie
 [[Link to project]](https://github.com/MarcioArak/me-so-social)
-* Created a social media website using React
-* Only front-end application with a some functionalities
-* Light and dark theme
-* Responsive layout: PC, mobile and tablet
+* Developed a comprehensive, full-stack social media platform utilizing React, featuring a responsive design optimized for seamless user experience across various devices, including desktops, mobile phones, and tablets.
+* The website is integrated with an SQL database for robust data management and storage
+* Back-end uses CORS for front-end and back-end communication and cookies to pass information
+* Designed for posting messages and uploading images, while also providing functionality to customize user profiles, including options to set profile and cover pictures
 * Pages include: Home, profile, login and register page
 
-<img src="./images/social-media-page.png">
+<img src="./images/Screenshot 2024-05-02 173945.png">
 
 ## Metro Bike Share App
 [[Link to project]](https://github.com/MarcioArak/Metro-Bike-Share-Data)
-* Created an application that displays a map of LA metro bike stations as markers
+* Developed an application showcasing a map interface featuring markers representing LA metro bike stations, providing users with visual navigation and location information.
 * Uses data gathered from [Metro Bike Share website](https://bikeshare.metro.net/about/data/)
 * The application displays information on each bike station as a pop-up such as active or inactive and number of trips per hour or per day.
 * The pop-up also shows which days are the busiest as well as which hours are the busiest
