@@ -2,7 +2,7 @@
 **LinkedIn: https://www.linkedin.com/in/marcioarakaki/**
 
 ## React Social Media Webstie
-[[Link to project]](https://github.com/MarcioArak/me-so-social)
+[[Link to project]](https://github.com/MarcioArak/meso-social)
 * Developed a comprehensive, full-stack social media platform utilizing React, featuring a responsive design optimized for seamless user experience across various devices, including desktops, mobile phones, and tablets.
 * The website is integrated with an SQL database for robust data management and storage
 * Back-end uses CORS for front-end and back-end communication and cookies to pass information
