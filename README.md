@@ -1,5 +1,5 @@
 **email: marcio.arakaki22@gmail.com**  
-**LinkedIn: https://www.linkedin.com/in/marcioarakaki/**
+**LinkedIn: [https://www.linkedin.com/in/marcioarakaki/](https://www.linkedin.com/in/marcioarakaki/)**
 
 ## React Social Media Webstie
 [[Link to project]](https://github.com/MarcioArak/meso-social)
