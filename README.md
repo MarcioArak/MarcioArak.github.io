@@ -21,6 +21,16 @@
 
 <img src="./images/app_image.png">
 
+## Crime in Los Angeles, CA
+[[Link to project]](https://github.com/MarcioArak/la-crime)
+* Used Python to clean and modify dataset
+* Utilized Tableau to create a dashbaord with intereactive filters
+* Able to filter by age, sex, race, and category of crime
+* Data is neatly summarized with graphs and charts demostraiting crime throughtout the years
+* Data can be updated for easy integration for future data
+
+<img src="./images/la_crime.png">
+
 ## Image Classification
 [[Link to project]](https://github.com/MarcioArak/Image-Classification)
 * Built an image classification model and trained it to identify different kinds of sports balls
